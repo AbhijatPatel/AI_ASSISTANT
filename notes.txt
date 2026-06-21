@@ -1,0 +1,3 @@
+C++ was developed by Bjarne Stroustrup.
+Python was created by Guido van Rossum.
+Java was developed by James Gosling.

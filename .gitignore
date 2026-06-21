@@ -1,0 +1,5 @@
+venv/
+.env
+_pycache_/
+answer.txt
+chat_history.txt
